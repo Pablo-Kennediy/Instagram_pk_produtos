@@ -1,0 +1,23 @@
+a#semBarra{
+    text-decoration: none;
+}
+
+article{
+    float: left;
+}
+
+
+.footer{
+    display: block;
+    
+}
+footer{
+    margin-top: 300px;
+    list-style: none;
+    text-align: center;
+}
+footer p{
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+}
